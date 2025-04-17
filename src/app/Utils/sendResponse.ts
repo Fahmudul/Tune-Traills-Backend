@@ -8,7 +8,7 @@ interface IResponse<T> {
     limit: number;
     total: number;
   };
-  data: T;
+  data?: T;
 }
 export const sendResponse = <T>(res: Response, data: IResponse<T>) => {
   const { statusCode, success, message, data: responseData } = data;
