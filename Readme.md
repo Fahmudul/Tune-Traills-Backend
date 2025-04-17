@@ -8,15 +8,14 @@ A robust backend API system for managing bike servicing operations including cus
 
 ## 🌟 Live Demo
 
-**Backend URL:** [https://bike-servicing-api.onrender.com](https://bike-servicing-api.onrender.com)
+**Backend URL:** [https://bike-servicing-api.onrender.com](https://tune-trails.vercel.app)
 
 ## 🛠️ Tech Stack
 
 - **Backend Framework:** Express.js with TypeScript
 - **Database:** PostgreSQL
 - **ORM:** Prisma
-- **Authentication:** JWT (JSON Web Tokens)
-- **Deployment:** Render
+- **Deployment:** Supabase
 
 ## ✨ Key Features
 
@@ -67,7 +66,7 @@ A robust backend API system for managing bike servicing operations including cus
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bike-servicing-api.git
+   git clone https://github.com/Fahmudul/Tune-Traills-Backend
    cd bike-servicing-api
    ```
 
@@ -208,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Authors
 
-- Your Name - [GitHub Profile](https://github.com/yourusername)
+- Your Name - [GitHub Profile](https://github.com/Fahmudul)
 
 ## 🙏 Acknowledgements
 
